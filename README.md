@@ -8,6 +8,7 @@ In this lab, you'll investigate using scikit-learn with regularization in order 
 
 - Compare the different inputs with logistic regression models and determine the optimal model 
 
+# Check the index.ipynb file for my workings
 
 ```python
 # Import the necessary packages
